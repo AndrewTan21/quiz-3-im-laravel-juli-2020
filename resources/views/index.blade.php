@@ -1,5 +1,5 @@
 @extends('layouts.master')
-@section('content-image')
+@section('content')
 <div class="container-fluid">
     <div class="row justify-content-image-center">
         <div class="col-8">
@@ -7,4 +7,4 @@
         </div>
     </div>
 </div>
-@endsection('content-image')
+@endsection('content')
